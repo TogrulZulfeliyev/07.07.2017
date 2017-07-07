@@ -1,0 +1,20 @@
+Logical operators
+1) &&  and
+2) ||  or
+3) !   Not
+
+A = 1
+B = 0
+
+(A && B) = false
+(A || B) = ture
+! (A && B) = true
+
+true && false || !false && ture || true || false && true = true
+
+ferid=18
+samir=25
+arif=37
+vusal=26
+
+F > 18 && S>= 13 || ! ( A = 37 && V >24 ) =true 
