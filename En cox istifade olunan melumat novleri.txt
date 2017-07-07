@@ -1,0 +1,9 @@
+En cox istifade olunan melumat novlerini izahli sekilde yazin
+double
+string
+int
+float
+long
+bool
+byte
+char
